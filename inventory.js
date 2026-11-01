@@ -184,11 +184,11 @@ function renderFormRows() {
           <option value="P29 CEBOLLINO">P29 CEBOLLINO</option>
           <option value="P30 CEBOLLINO">P30 CEBOLLINO</option>
           <option value="P31 CEBOLLINO">P31 CEBOLLINO</option>
-          <option value="P32 LIGUSTICO">P32 LIGUSTICO</option>
+          <option value="P32 CEBOLLINO">P32 CEBOLLINO</option>
           <option value="P33 CEBOLLINO">P33 CEBOLLINO</option>
-          <option value="P34 CEBOLLINO">P34 CEBOLLINO</option>
+          <option value="P34 LIGUSTICO">P34 LIGUSTICO</option>
           <option value="P35 CEBOLLINO">P35 CEBOLLINO</option>
-          <option value="P64 LIGUSTICO">P64 LIGUSTICO</option>
+          <option value="P64 CEBOLLINO">P64 CEBOLLINO</option>
       
         </select>
       </div>
